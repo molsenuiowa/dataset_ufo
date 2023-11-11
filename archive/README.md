@@ -1,9 +1,7 @@
 # dataset_imdb/archive
 ### The archive folder contains: 
- - **data that was used in the making of the final dataset**
-   - *smaller, individual files that were later integrated either horizontally or vertically*
+ - **The archive folder contains**
+   - *Store in-process data that you want to retain but is not part of the finished dataset*
   
 
- - **older versions of the final dataset** 
-   - *when the dataset is updated at a later month, the previous data set, that doesn't contain those months, 
-   will be moved here*
+ 
